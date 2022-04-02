@@ -47,6 +47,11 @@
 				]
 			}
 		],
+		"parameters": {
+			"folder": {
+				"type": "string"
+			}
+		},
 		"annotations": [],
 		"lastPublishTime": "2022-03-23T18:25:24Z"
 	},
