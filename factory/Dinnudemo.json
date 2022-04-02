@@ -1,0 +1,9 @@
+{
+	"name": "Dinnudemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13c5c506-9b9d-48cd-b878-9274c2bc5fea",
+		"tenantId": "93e6beba-c4aa-4731-af5d-d735b097eadb"
+	}
+}
